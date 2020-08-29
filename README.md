@@ -152,7 +152,7 @@ Step     | Description
 
 ## Workshop Proposed Agenda
 
-### **1-Day Format**
+### **1-Day Format**    added
 
 Activity | Duration
 -------- | ---------
